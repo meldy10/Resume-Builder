@@ -34,8 +34,8 @@ Follow these instructions to set up and run the project on your local machine.:
 
 1. **Clone the Repository**: Clone this repository to your local machine.
 
-   bash
-   
+    https://github.com/meldy10/Resume-Builder
+
 
 2. **Installation**: Navigate to the project directory and install the required dependencies.
 
@@ -58,5 +58,5 @@ npm install
 
 - **AlmaBetter Front-End Capstone Project** ([WebLink](https://react-resume-builder-project-8a25z1paj-himanshusinghsamant.vercel.app))
 
--**Thank you for choosing our Resume Builder Website.** 
+-**Thank you for choosing my Resume Builder Website.** 
 **Happy resume building! 📄✨**
