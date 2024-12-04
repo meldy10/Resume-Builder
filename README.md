@@ -1,4 +1,4 @@
-# Resume Builder App([Website](https://react-resume-builder-project-8a25z1paj-himanshusinghsamant.vercel.app))
+# Resume Builder App([Website]
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Welcome to the Resume Builder Website project! This project is developed by Melv
 
 ## Features
 
-Our Resume Builder App(Website) offers the following key features:
+Resume Builder App(Website) offers the following key features:
 
 - **User-Friendly Interface**: The website offers an intuitive and easy-to-navigate interface for creating and editing resumes.
 
@@ -56,7 +56,7 @@ npm install
 
 ## WebLink
 
-- **AlmaBetter Front-End Capstone Project** ([WebLink](https://react-resume-builder-project-8a25z1paj-himanshusinghsamant.vercel.app))
+- **AlmaBetter Front-End Capstone Project** ([WebLink]
 
 -**Thank you for choosing my Resume Builder Website.** 
 **Happy resume building! 📄✨**
